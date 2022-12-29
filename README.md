@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quynh Nhu</h1>
 <h3 align="center">A cute girl likes FrontEnd Developers Job</h3>
-<img align="right" alt="Coding" src="https://camo.githubusercontent.com/d884cb622375e94536b1db9529b453bc88e1a8181cb6ff096a867ba914305e5a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31642f39302f35302f31643930353036353038386138393437663930383030626633646233316261312e676966" data-canonical-src="https://i.pinimg.com/originals/1d/90/50/1d905065088a8947f90800bf3db31ba1.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="Coding" src="[https://camo.githubusercontent.com/d884cb622375e94536b1db9529b453bc88e1a8181cb6ff096a867ba914305e5a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31642f39302f35302f31643930353036353038386138393437663930383030626633646233316261312e676966](https://media3.giphy.com/media/dAo5xN4NPfar4tvh49/giphy.gif?cid=ecf05e479xg3dfey7fgnq4t1jqbvedjvyajwbhponhaarua7&rid=giphy.gif&ct=g)" data-canonical-src="https://i.pinimg.com/originals/1d/90/50/1d905065088a8947f90800bf3db31ba1.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 - 📫 How to reach me **nhuphan.onlyforjob@gmail.com**
 
