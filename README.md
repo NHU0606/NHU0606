@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quynh Nhu</h1>
 <h3 align="center">A cute girl likes FrontEnd Developers Job</h3>
-<img align="right" alt="Coding" src="src="https://media3.giphy.com/media/dAo5xN4NPfar4tvh49/giphy.gif?cid=ecf05e479xg3dfey7fgnq4t1jqbvedjvyajwbhponhaarua7&rid=giphy.gif&ct=g"">
+<img align="right" src="https://media3.giphy.com/media/dAo5xN4NPfar4tvh49/giphy.gif?cid=ecf05e479xg3dfey7fgnq4t1jqbvedjvyajwbhponhaarua7&amp;rid=giphy.gif&amp;ct=g" alt="Happy Dance GIF" style=" width: 500px; height: 500px; right: 0;">
 
 - 📫 How to reach me **nhuphan.onlyforjob@gmail.com**
 
