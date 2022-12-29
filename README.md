@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Quynh Nhu</h1>
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FB2576&width=500&lines=A+cute+girl+likes+FrontEnd+Developer+Job" alt="Typing SVG" /></a>
