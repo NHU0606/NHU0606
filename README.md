@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quynh Nhu</h1>
 <h3 align="center">A cute girl likes FrontEnd Developers Job</h3>
-<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/BzCFyNz8bCE75hXi6K" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/happy-dance-wonderpals-BzCFyNz8bCE75hXi6K">via GIPHY</a></p>
+<img align="right" src="https://giphy.com/xdelacra">
 
 - 📫 How to reach me **nhuphan.onlyforjob@gmail.com**
 
