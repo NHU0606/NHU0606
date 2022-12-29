@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quynh Nhu</h1>
 <h3 align="center">A cute girl likes FrontEnd Developers Job</h3>
-<img align="right" src="[[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9YNGvyz-Zlqtl5K7mruIdmE55M3r96BS7SHyUO2H1Ct0DkfQsS7hdwcCsUdR2f3Scq64&usqp=CAU](https://media0.giphy.com/media/c76IJLufpNwSULPk77/giphy.gif?cid=790b76117f8a25ffeda93a0269091a338fc064b7a765b13f&rid=giphy.gif&ct=g)](https://media.tenor.com/J4WA4IXVeBQAAAAM/love-you.gif)">
+<img align="right" src="[[[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9YNGvyz-Zlqtl5K7mruIdmE55M3r96BS7SHyUO2H1Ct0DkfQsS7hdwcCsUdR2f3Scq64&usqp=CAU](https://media0.giphy.com/media/c76IJLufpNwSULPk77/giphy.gif?cid=790b76117f8a25ffeda93a0269091a338fc064b7a765b13f&rid=giphy.gif&ct=g)](https://media.tenor.com/J4WA4IXVeBQAAAAM/love-you.gif)](https://e0.pxfuel.com/wallpapers/626/168/desktop-wallpaper-%E0%B8%9B%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%A2-aekkalisa-%E0%B9%83%E0%B8%99-duffy-friends-stella-lou.jpg)">
 
 - 📫 How to reach me **nhuphan.onlyforjob@gmail.com**
 
