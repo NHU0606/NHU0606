@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nhu</h1>
+<h1 align="center">Hi 👋, I'm Quynh Nhu</h1>
 <h3 align="center">A cute girl likes FrontEnd Developers Job</h3>
 
 - 📫 How to reach me **nhuphan.onlyforjob@gmail.com**
