@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Quynh Nhu</h1>
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FB2576&width=500&lines=A+cute+girl+like+FrontEnd+Developer+Job" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FB2576&width=500&lines=A+cute+girl+like+Coding+Job" alt="Typing SVG" /></a>
  </div>
 <img  align="right" alt="Coding" src="https://64.media.tumblr.com/de93d48ecc03780e59c724030b3bba8f/fe0c21f58478ff5c-38/s400x600/8763c6e209c1d3ff098586fd280af1a8ce348a8d.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
